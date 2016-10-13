@@ -27,4 +27,4 @@ branches:
     - blog-source
 env:
  global:
-   - GH_REF: https://github.com/mniya/mniya.github.io.git
+   - GH_REF: github.com/mniya/mniya.github.io.git
